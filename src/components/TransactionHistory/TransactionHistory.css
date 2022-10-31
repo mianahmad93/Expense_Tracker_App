@@ -1,0 +1,27 @@
+#history{
+    margin-top: 10px;
+}
+.red{
+    box-shadow: 2px 3px 1px   lightcoral;;
+}
+.blue{
+    box-shadow: 2px 3px 1px rgb(118, 194, 220);
+}
+.list{
+    list-style-type: none;
+    /* width: 100%; */
+}
+.mylist{
+    width: auto;
+    margin-top: 5px;
+    font-size: 20px;
+}
+.left{
+    margin-right: 30%;
+}
+.delete{
+    margin-left: 20%;
+}
+.delete:hover{
+    cursor: pointer;
+}
